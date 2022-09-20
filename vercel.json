@@ -1,0 +1,5 @@
+ {
+     "redirects": [
+         { "source": "/", "destination": "[http://contribute.yearn.farm/](http://contribute.yearn.farm/)" }
+     ]
+ }
